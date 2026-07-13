@@ -221,7 +221,7 @@ Have questions or suggestions? Feel free to open an [Issue](../../issues) on Git
 
 <div align="center">
 
-**Made with ❤️ by Rodrigo**
+**Made with ❤️ by Usif Mohmd**
 
 *If this project helped you, consider giving it a ⭐ star on GitHub!*
 
