@@ -1,0 +1,15 @@
+{
+  "TOKEN": "MTUyMzY3NDM0NTIyMDYwMzkxNA.GyYA0q.kgIjuRSdXVt8lRbqqr_tWyqhxiFrxwFDM7LzLI",
+  "CHANNEL_ID": "1523670902771023984",
+  "platforms": {
+    "steam": true,
+    "epic_games": false,
+    "microsoft": false
+  },
+  "show_coop_deals": true,
+  "use_ai": true,
+  "min_discount": 70,
+  "min_original_price": 25.0,
+  "min_rating": 50,
+  "scan_interval_hours": 1
+}
